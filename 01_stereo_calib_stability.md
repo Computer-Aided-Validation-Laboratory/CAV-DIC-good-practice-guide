@@ -17,4 +17,4 @@ Given this, the following suggestions are made for long term DIC setup stability
 
 An example of this kind of setup is shown here:
 
-![dic_setup](images\Creep_DIC_Crop.png)
+![dic_setup](images/Creep_DIC_Crop.png)
